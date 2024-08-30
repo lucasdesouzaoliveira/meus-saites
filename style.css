@@ -50,10 +50,9 @@ h1{
     margin-top: 17px;
     width: 30cm;
 }
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width:884px) {
     body{
-        background-image: url(imagens/foto-da-mulher2.-responsiva.jpg);
+        background-image: url(imagens/foto-da-mulher2.jpg);
         background-position: center;
         width: 50vh;
     }
